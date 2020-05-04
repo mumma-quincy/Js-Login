@@ -26,3 +26,4 @@ CREATE TABLE `imagesData` (
   `user_id_fk` int(11) DEFAULT NULL
 ) 
 ```
+
